@@ -1,6 +1,10 @@
 # Jakir's Note
 Create a simple notes
 
+## Screenshots
+✅✅✅✅✅✅
+<img src="ss/ss.jpg" width="600"> 
+
 ## Features
 
 * simple interface that most of the users find easy to use
@@ -9,9 +13,7 @@ Create a simple notes
 * importing notes from txt files, saving notes as txt files
 * sharing notes with other apps (e.g. sending a note in Gmail)
 
-## Screenshots
-
-<img src="ss/ss.jpg" width="600">  
+ 
 
 
 ## Developer
