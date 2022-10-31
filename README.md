@@ -2,7 +2,7 @@
 Create a simple notes
 
 ## Screenshots
-✅✅✅✅✅✅
+:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark:
 <img src="ss/ss.jpg" width="600"> 
 
 ## Features
