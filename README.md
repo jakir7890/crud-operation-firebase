@@ -11,7 +11,7 @@ Create a simple notes
 
 ## Screenshots
 
-<img src="screenshot/1.png" width="256"> <img src="screenshot/2.png" width="256"> <img src="screenshot/3.png" width="256"> 
+<img src="ss/ss.jpg" width="600">  
 
 
 ## Developer
